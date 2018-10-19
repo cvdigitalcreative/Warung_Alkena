@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bato Template</title>
+	<title>Warung Alkena</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -69,7 +69,7 @@
 						<p class="colorlib-social-icons">
 								<a href="https://api.whatsapp.com/send?phone=628117199210" target="blank"><i class="icon-whatsapp"></i></a>
 								<a href="https://www.instagram.com/warungalkena/" target="blank"><i class="icon-instagram"></i></a>
-								<a href="https://www.warungkreatif.com" target="blank"><i class="icon-dribbble"></i></a>
+								<a href="https://www.warungcreative.com" target="blank"><i class="icon-dribbble"></i></a>
 							</p>
 					</div>
 				</div>
